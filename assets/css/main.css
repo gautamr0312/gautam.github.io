@@ -2039,7 +2039,7 @@ input, select, textarea {
 
 	.thumbnail img {
 		display: block;
-		width: 150px; /* Adjust to your desired thumbnail size */
+		width: 175px; /* Adjust to your desired thumbnail size */
 		height: auto;
 		border: 2px solid #ccc; /* Optional border for styling */
 		border-radius: 5px; /* Optional rounded corners */
