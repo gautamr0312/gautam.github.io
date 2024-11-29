@@ -2039,8 +2039,8 @@ input, select, textarea {
 
 	.thumbnail img {
 		display: block;
-		width: 100%; /* Adjust to your desired thumbnail size */
-		height: 100%;
+		width: 400px; /* Adjust to your desired thumbnail size */
+		height: auto;
 		border: 2px solid #ccc; /* Optional border for styling */
 		border-radius: 5px; /* Optional rounded corners */
 		transition: transform 0.2s ease; /* Smooth zoom effect on hover */
